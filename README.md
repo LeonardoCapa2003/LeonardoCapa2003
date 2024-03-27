@@ -28,7 +28,7 @@ I'm interested in positions that allow me to use and deepen my skills in Java an
 Are you interested in collaborating or think I might be the ideal candidate for your company? Contact me!
 
 - **Email:** [leonardo.capannelli.2003@gmail.com](mailto:leonardo.capannelli.2003@gmail.com)
-- **LinkedIn:** [Leonardo Capannelli](www.linkedin.com/in/leonardo-capannelli-5408102b6)
+- **LinkedIn:** [Leonardo Capannelli](https://www.linkedin.com/in/leonardo-capannelli-5408102b6)
 
 ### 💼 Work Experience
 Work in progress
